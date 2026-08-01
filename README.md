@@ -1,12 +1,12 @@
 # Superstore Dashboard
 
-2. Superstore Performance Analytics: Insights Dashboard. A dynamic, interactive data visualization tool built to explore Superstore data, focusing on regional comparisons, terrain complexity, and suitability.
+Superstore Performance Analytics: Insights Dashboard. A dynamic, interactive data visualization tool built to explore Superstore data, focusing on regional comparisons, terrain complexity, and suitability.
 
-3. Short Description / Purpose
+Short Description / Purpose
 
 The Superstore Performance Analytics Dashboard is a visually engaging and analytical Power BI report designed to help employees explore and compare key performance metrics and their response by customers. This tool is intended for use by analysts, enthusiasts, brand companies, and data-driven strategists who seek to understand trends and characteristics of retail stores globally.
 
-3. Tech Stack
+Tech Stack
 
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -15,8 +15,8 @@ The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (product, sales, demand, profit and data_dictionary) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-5. Features / Highlights
-6. 
+Features / Highlights
+ 
 • Goal of the Dashboard: To deliver an interactive visual tool that supports decisions such as market planning, regional marketing, or supply decisions. Uncovers trends in terrain, accessibility, and capacity by region.
 
 • Walkthrough of Key Visuals
